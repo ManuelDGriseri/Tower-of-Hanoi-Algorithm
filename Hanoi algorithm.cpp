@@ -1,4 +1,4 @@
-#include<iostream>j
+#include<iostream>
 #include<cmath>
 using namespace std;
 int cont=0;
@@ -25,4 +25,5 @@ int main()
     cout<<pow(2,n)-1;
     return 0;
 }
+
 
