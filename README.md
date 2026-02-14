@@ -1,1 +1,1 @@
-# Tower of Hanoi Algorith
+# Tower of Hanoi Algorithm
